@@ -1,4 +1,7 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Vu Khoa</h1>
+<h3 align="center">I am currently a final-year student at VNU-HCMUS. Driven by my passion for full-stack development, I have gained proficiency in both Frontend and Backend technologies. I consistently apply best practices to the projects I work on.</h3>
+
+## 💫 About Me:
 🔭 I’m currently working on an internship at GoGoX<br><br>🌱 I’m currently learning about microservices and exploring its applications, along with the best practices for implementation.<br><br>👨‍💻 All of my projects are available at https://vukhoa23.github.io/Portfolio/<br><br>📫 How to reach me vuanhkhoa007@gmail.com
 
 

@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently committing to an internship at GoGoX<br><br>
-🌱 I’m currently learning about microservices and exploring its applications, along with the best practices for implementation.<br><br>
+🌱 Microservices and Reactive programming enthusiast !!<br><br>
 👨‍💻 All of my projects are available at https://vukhoa23.github.io/Portfolio/<br><br>
 📫 How to reach me vuanhkhoa007@gmail.com
 

@@ -3,8 +3,8 @@
 
 ## 💫 About Me:
 🔭 I’m currently committing to an internship at GoGoX<br><br>
-🌱 Microservices and Reactive programming enthusiast !!<br><br>
-👨‍💻 All of my projects are available at https://vukhoa23.github.io/Portfolio/<br><br>
+🌱 Microservices and Multi-threading programming enthusiast !!<br><br>
+👨‍💻 Visit my website https://vukhoa23.github.io/Portfolio/<br><br>
 📫 How to reach me vuanhkhoa007@gmail.com
 
 
